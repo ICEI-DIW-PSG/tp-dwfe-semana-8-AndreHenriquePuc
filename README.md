@@ -13,6 +13,4 @@ Nesta atividade, você fazer exercícios de programação para vai praticar a ma
 
 <<  COLOQUE A IMAGEM - CÁLCULO DE MÉDIAS - AQUI >>
 
-<<  COLOQUE A IMAGEM - RESUMO DE VERIFICAÇÕES (SOME E EVERY) - AQUI >>
-
 <<  COLOQUE A IMAGEM - PÁGINA COM O RESUMO - AQUI >>
